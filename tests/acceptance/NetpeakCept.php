@@ -1,12 +1,20 @@
 <?php
 use Codeception\Util\Locator;
 use Codeception\Module\Asserts;
+//
+//
+//
+//
+//
+//
+//
+
 
 $I = new AcceptanceTester($scenario);
 $I->wantTo('see start page, go to Career page, interact with resume page and go to Courses page');
 $I->amOnPage('/');
 
-//Check button "Career" on the page and click
+//Check button "Career" on the page and click asd
 $I->see('Карьера','#allrecords a.custom-link-black');
 $I->click(Locator::contains('#allrecords a.custom-link-black', 'Карьера'));
 $I->amOnUrl('https://career.netpeak.group/');
