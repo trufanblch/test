@@ -8,6 +8,15 @@ $I = new AcceptanceTester($scenario);
 $I->wantTo('see start page, go to Career page, interact with resume page and go to Courses page');
 $I->amOnPage('/');
 
+//asd
+asd
+  asd
+  a
+  ad
+  asd
+  
+  
+ 
 ////Check button "I want to work" on the page and click
 $I->see('Я хочу работать в Netpeak', '/html/body/div[5]/div/div/div[2]/div/a');
 $I->click(Locator::contains('/html/body/div[5]/div/div/div[2]/div/a','Я хочу работать в Netpeak'));
