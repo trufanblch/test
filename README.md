@@ -17,14 +17,11 @@ sdfg
 
 ///
 
-/svd
-/sdv
-/фівфвsdfgsdfg
-фів
-sdfg
-sdfg
-s
+/
 фв
+sdfsdf
+sdf
+sdf
 
 /
 /
