@@ -5,27 +5,27 @@ Test for interview
 
 
 /
-dsfg
-sdfg
-dsf
-gsdf
-g
+.dsfg
+.sdfg
+.dsf
+/gsdf
+/g
 /sdvsv
 /vsdv
-івіаів
-аів
-ів
-аі
-аі
-аві
-а
-іа
-і
-іфв
-фв
-вф
-ф
-sdf
+/івіаів
+/аів
+/ів
+/аі
+/аі
+/аві
+/а
+/іа
+/і
+/іфв
+/фв
+в//ф
+/ф
+/sdf
 
 /
 /
