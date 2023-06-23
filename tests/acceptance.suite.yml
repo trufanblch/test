@@ -3,6 +3,8 @@
 # Suite for acceptance tests.
 # Perform tests in browser using the WebDriver or PhpBrowser.
 # If you need both WebDriver and PHPBrowser tests - create a separate suite.
+# sdvdsav
+# dsfdsf
 
 actor: AcceptanceTester
 modules:
@@ -12,7 +14,7 @@ modules:
             browser: firefox
             capabilities:
              moz:firefoxOptions:
-                 args: ["-headless"] # Run Firefox in headless mode
+                 args: ["-headless"] # Run Firefox in headless modesdfdsfsdfsf
         - Asserts
 
 step_decorators:
