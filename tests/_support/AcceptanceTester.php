@@ -1,7 +1,7 @@
 <?php
 
 
-/**
+/** asdad asd a asd 
  * Inherited Methods
  * @method void wantToTest($text)
  * @method void wantTo($text)
