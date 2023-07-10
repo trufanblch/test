@@ -10,31 +10,14 @@ $I->amOnPage('/');
 
 //asd
 asd
-  фів
+asdfsdfdsf
   sdf
   sdf
-  asdf
-  sadf
-  safd
-  asf
-  
-  sdf
-  sdf
-  sf
-  
-  фів
-  фів
-  фв
-  asd
-  
-  asd
-  as
-  
-  asd
-  a
-  ad
-  asd
-  
+  dg
+  sdgsd
+  ghs
+  gh
+
   
  
 ////Check button "I want to work" on the page and click
