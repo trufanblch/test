@@ -3,32 +3,15 @@
 
 Test for interview
 
-
-/
-.dsfg
-.sdfg
-.dsf
-/gsdf
+/gsdfasdf
+asdf
+asdf
+asdf
+asf
 /g
 /sdvsv
 /vsdv
-/івіаів
-/аів
-/ів
-/аі
-/аі
-/аві
-/а
-/іа
-/і
-/іфв
-/фв
-в//ф
-/ф
-/sdf
 
-/
-/
 Requirements:
 
 
