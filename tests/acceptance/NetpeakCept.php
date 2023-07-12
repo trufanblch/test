@@ -9,15 +9,14 @@ $I->wantTo('see start page, go to Career page, interact with resume page and go 
 $I->amOnPage('/');
 
 //asd
-asd
-asdfsdfdsf
-  sdf
-  sdf
-  dg
-  asdfgdfsg
-  sdfg
-  sdf
-  gsdg
+//asdas
+//asd/ads/asd/asd
+ad
+  as
+  d/ad/as
+  d/ad/
+  a/d
+  as/d
   
 
   
