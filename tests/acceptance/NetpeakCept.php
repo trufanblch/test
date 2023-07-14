@@ -10,33 +10,20 @@ $I->amOnPage('/');
 
 //asd
 //asdas
-//asd/ads/asd/asd
-ad
+//asd/ads/asd/asdasdfasd
+asdas
+  d
+  asd
+  asd
   as
-  d/ad/as
-  d/ad/
-  a/d
-  as/d
-  
+  da
+  da
+  da
 
-  
- 
 ////Check button "I want to work" on the page and click
 $I->see('Я хочу работать в Netpeak', '/html/body/div[5]/div/div/div[2]/div/a');
 $I->click(Locator::contains('/html/body/div[5]/div/div/div[2]/div/a','Я хочу работать в Netpeak'));
 $I->amOnUrl('https://career.netpeak.group/hiring/');
-////Check button "I want to work" on the page and click
-$I->see('Я хочу работать в Netpeak', '/html/body/div[5]/div/div/div[2]/div/a');
-$I->click(Locator::contains('/html/body/div[5]/div/div/div[2]/div/a','Я хочу работать в Netpeak'));
-$I->amOnUrl('https://career.netpeak.group/hiring/');
-////Check button "I want to work" on the page and click
-$I->see('Я хочу работать в Netpeak', '/html/body/div[5]/div/div/div[2]/div/a');
-$I->click(Locator::contains('/html/body/div[5]/div/div/div[2]/div/a','Я хочу работать в Netpeak'));
-$I->amOnUrl('https://career.netpeak.group/hiring/');
-//
-//
-//
-//
 
 
 //Check button "I want to work" on the page and click
