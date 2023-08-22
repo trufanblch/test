@@ -1,17 +1,5 @@
 "# Oleksii_test" 32bit
 
-
-Test for interview
-
-/gsdfasdf
-asdf
-asdf
-asdf
-asf
-/g
-/sdvsv
-/vsdv
-
 Requirements:
 
 
