@@ -17,6 +17,9 @@ $I->amOnUrl('https://career.netpeak.group/hiring/');
 //and see that error message appeared kljlkjk kljlkjklnkljklnlk 
 lkjlkj 
   lkj
+  джбэ
+  дэ
+  эдб
   lkj
   jkj
 $I->see('Загрузить резюме', '#upload');
