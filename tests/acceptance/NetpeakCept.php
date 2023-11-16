@@ -16,17 +16,14 @@ $I->amOnUrl('https://career.netpeak.group/hiring/');
 //Check button "Upload Resume" on the page, attach wrong file test.png
 //and see that error message appeared kljlkjk kljlkj
   
-  hп
-    п
-    р
-    р
-    р
-    р
-    р
-    р
-    рррр
-    рррр
-    ррр
+  jfkfkf
+    ffff
+    ffff
+    ffff
+    frff
+    rrff
+    jjj
+    
     ррр
     
 $I->see('Загрузить резюме', '#upload');
