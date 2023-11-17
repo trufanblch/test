@@ -35,7 +35,21 @@ $I->see('Ошибка: данные файла не были переданы.',
 $randomName = $I->executeJS("return Math.random().toString(36).substring(2,12);");
 $randomLastname = $I->executeJS("return Math.random().toString(36).substring(2,12);");
 $randomEmail = $I->executeJS("var chars = 'abcdefghijklmnopqrstuvwxyz'; return chars[Math.floor(Math.random()*26)] + Math.random().toString(36).substring(2,11) + '@domain.com';");
+f
+  f
+  f
+  f
+  f
+  ffff
+  fggg
+  ggggg
+  fsssfg
+  ggggee
+  ffcdset
+  ffghtexft
 
+  dffffghr
+  kfmfmkf
 //Fill fields in "personal data" block using random variables and press button "submit" resume
 $I->fillField('#inputName', "$randomName");
 $I->fillField('#inputLastname', "$randomLastname");
