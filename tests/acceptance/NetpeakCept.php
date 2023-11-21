@@ -16,19 +16,18 @@ $I->amOnUrl('https://career.netpeak.group/hiring/');
 //Check button "Upload Resume" on the page, attach wrong file test.png
 //and see that error message appeared kljlkjk kljlkj
   f
-    f
-    f
-    ff
-    fgggggg
-    hhhhhhh
-    ghhh
-    hhhh
-    
-    ffff
-    ffff
-    ffff
-    frff
-    rrff
+  g
+    fn
+    ggv
+    gg
+    h
+    g
+     ghht
+    ggv
+    ffg
+    gggg
+    sddd
+    ddsddc
     jjj
     
     ррр
@@ -38,6 +37,14 @@ $I->attachFile("input[type='file']", 'test.png');
 $I->wait(5);
 $I->see('Ошибка: данные файла не были переданы.', '#up_file_name label.control-label');
 
+fff
+fff
+  fff
+
+  ggg
+  fgg
+  fff
+  
 //Create Random variables for Name, LastName and Email
 $randomName = $I->executeJS("return Math.random().toString(36).substring(2,12);");
 $randomLastname = $I->executeJS("return Math.random().toString(36).substring(2,12);");
