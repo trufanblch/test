@@ -5,18 +5,17 @@ h
 jkkklkhh
   fff
   fff
-  f
-  f
-  fffffff
-  f
-  gg
-
-  gfggffkdndfng
-  gifkmfmfmfk
-  jggyub
-
-  hhujhjj
-  hjbhu
+jhbj
+  g
+  g
+  g
+  g
+  ggggggg
+  huuuh
+  rrrrrt
+  yyyuu
+  gggggg
+  
   hhuh
 huu
   jjiij
