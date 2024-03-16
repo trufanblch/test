@@ -6,16 +6,10 @@ jkkklkhh
   fff
   fff
 jhbj
-  g
-  g
-  g
-  g
-  ggggggg
-  huuuh
-  rrrrrt
-  yyyuu
-  gggggg
-  
+  пдаджп
+  пдпжпж
+  адажжп
+  жажпдпюп
   hhuh
 huu
   jjiij
