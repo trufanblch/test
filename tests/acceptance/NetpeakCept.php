@@ -3,17 +3,14 @@ use Codeception\Util\Locator;
 use Codeception\Module\Asserts;
 h
 jkkklkhh
-  fff
-  fff
-jhbj
-  пдаджп
-  пдпжпж
-  адажжп
-  жажпдпюп
-  hhuh
-huu
-  jjiij
-  jjjjnn
+
+  djdjdj
+  d
+  d
+  d
+  dddffjdjdkek
+  jdididkrnrnxijrje
+  jdjrkdonrrbfi
 
 $I = new AcceptanceTester($scenario);
 $I->wantTo('see start page, go to Career page, interact with resume page and go to Courses page');
