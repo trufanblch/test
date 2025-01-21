@@ -4,15 +4,12 @@ use Codeception\Module\Asserts;
 h
 kfkfkf
   fjfjfk
-  kfkfkf
-  jfjfkf
-  jfjfkf
-  g
-  g
-  g
-  g
-  g
-  g
+  kfkf
+  jfjfj
+  jffjfj
+  jfjfj
+  hdjfjf
+  hfjfjfj
   hhjbjkn
 
   hgjjh
