@@ -6,12 +6,10 @@ kfkfkf
   jfjfj
   djfjf
   jfjfjf
-  fjfjfk
-  djdjfj
-  fjfjfk
-  kfkf
-  jfjfj
-  jffjfj
+  jdmdm
+  jdnfnfk
+  jdjdjf
+  jdjfjdj
   jfjfj
   hdjfjf
   hfjfjfj
