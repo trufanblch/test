@@ -3,36 +3,7 @@ use Codeception\Util\Locator;
 use Codeception\Module\Asserts;
 h
 kfkfkf
-  jfjfjдпдпдп
-  jdjxkfkfk
-  jxjfjf
-  jfjfkf
-  jfjfj
-  fhfjfj
-  hfhfjf
-  jfjfj
-  jfjfjfj
-  jfjf
-  udjdjf
-  udjdjfj
-  hdjfjfjf
-  fjfnfk
-  jdjfjf
-  jdjfjfj
-  jfjfj
-  ufjfj
-  jgkfkg
-  jfjfkf
-  jfjfj
-
-  hgjjh
-  yikbgh
-  uuiggvv
-  g
-  g
-  h
-  h
-  h
+  ghghh
 
   ghifjfkfkfm
   jdjrkdonrrbfi
